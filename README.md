@@ -24,6 +24,8 @@ Developed a comprehensive weekly credit card dashboard that tracks performance m
 #### ✔️ Activation Rate: 57.5%
 #### ❌ Delinquency Rate: 6.06%
 
+![Image](https://github.com/user-attachments/assets/c0bb739b-1b9d-4deb-9a97-e073c0bec250)
+
 ## 📈 Business Impact & Strategic Takeaways
 #### ✅ Revenue Growth Tracking: Monitors performance fluctuations to enhance marketing and operational strategies.
 #### ✅ Customer Segmentation Insights: Helps tailor credit card offerings based on demographic contribution trends.
