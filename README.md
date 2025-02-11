@@ -6,10 +6,12 @@
 Developed a comprehensive weekly credit card dashboard that tracks performance metrics, identifies trends, and delivers actionable insights to enhance decision-making and operational efficiency.
 
 ## 🔍 Key Insights – Week 53 (Dec 31st)
+
 #### 📈 Weekly Performance (Week-over-Week Change):
 #### ✅ Revenue surged by 28.8% 📊
 #### ✅ Total Transaction Amount & Count increased from 748677 to 1011008
 
+![Image](https://github.com/user-attachments/assets/ee2281d2-4824-4e3c-812e-514d2da988af)
 
 ### 📊 Year-to-Date (YTD) Overview:
 #### 💰 Total Revenue: $57M
